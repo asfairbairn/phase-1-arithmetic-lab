@@ -1,2 +1,11 @@
+const num1 = 62
+const num2 = 1
+function multiply() {
+    product = num1*num2
+    return product
+}
 
-// Write your code here
+function random() {
+   integer =  Math.floor() + 1
+   return integer
+}
